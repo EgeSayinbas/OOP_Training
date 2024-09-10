@@ -1,0 +1,5 @@
+﻿1- Claslarda herhangi bir erisim belirteci bulunmadigi default degeri
+   internal'dir
+2- Uye elemanlardan herhangi bir erisim belirteci kullanilmaz ise 
+   defult degeri private'tir
+3-

@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="_3_ClassLib.Personeller.Sekreter">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAiAAAAAAAA=</HashCode>
+      <FileName>Personeller\Sekreter.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_3_ClassLib.Personeller.SatisElemani">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAAAAAAAAAAAAgAAAAAAAAAAAAIgAAAAAAAA=</HashCode>
+      <FileName>Personeller\SatisElemani.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_3_ClassLib.Personeller.ITTasarimci">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Personeller\ITTasarimci.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_3_ClassLib.Personeller.Kisi" Collapsed="true">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAICAAAAACAAAAAAEAAAAAAAAAAAAAEACAAAACAAAAA=</HashCode>
+      <FileName>Personeller\Kisi.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_3_ClassLib.Personeller.Personel" Collapsed="true">
+    <Position X="5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAACAEAA=</HashCode>
+      <FileName>Personeller\Personel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_3_ClassLib.Personeller.ITYazilim">
+    <Position X="9.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAE=</HashCode>
+      <FileName>Personeller\ITYazilim.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_3_ClassLib.Personeller.InsanKaynaklari">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAAAAAABAAAAAAAAAAAAgAAAAAAQ=</HashCode>
+      <FileName>Personeller\InsanKaynaklari.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="_3_ClassLib.Personeller.SatisMuduru" Collapsed="true">
+    <Position X="5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAABAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Personeller\SatisMuduru.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
