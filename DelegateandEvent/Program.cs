@@ -1,4 +1,4 @@
-﻿namespace DelegateandEvent
+﻿namespace _21_DelegateandEvent
 {
     internal class Program
     {

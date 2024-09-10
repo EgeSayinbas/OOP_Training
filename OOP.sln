@@ -40,13 +40,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "15-InterfaceDatabase", "15-
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "19-SealdClassAndExtensionsMetods", "19-SealdClassAndExtensionsMetods\19-SealdClassAndExtensionsMetods.csproj", "{03355363-CD1B-46AC-A371-0CA5B4301403}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17-PartialClass", "17-PartialClass\17-PartialClass.csproj", "{87660EEB-1941-43DB-BF75-DDDD763B94EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "17-PartialClass", "17-PartialClass\17-PartialClass.csproj", "{87660EEB-1941-43DB-BF75-DDDD763B94EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18-Delegate", "18-Delegate\18-Delegate.csproj", "{7B25EBF9-C233-49E7-A0FA-0CC8FE36C5F1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "18-Delegate", "18-Delegate\18-Delegate.csproj", "{7B25EBF9-C233-49E7-A0FA-0CC8FE36C5F1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20-DelegateOrnek", "20-DelegateOrnek\20-DelegateOrnek.csproj", "{BB71734E-0DBE-4BC6-A3B9-7162B525E269}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "20-DelegateOrnek", "20-DelegateOrnek\20-DelegateOrnek.csproj", "{BB71734E-0DBE-4BC6-A3B9-7162B525E269}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateandEvent", "DelegateandEvent\DelegateandEvent.csproj", "{83713DE0-0CB1-41C2-BB32-695363E58E04}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "21-DelegateandEvent", "DelegateandEvent\21-DelegateandEvent.csproj", "{83713DE0-0CB1-41C2-BB32-695363E58E04}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
