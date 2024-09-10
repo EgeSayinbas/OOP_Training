@@ -32,13 +32,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11-Interface", "11-Interfac
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "12-InterfaceLab", "12-InterfaceLab\12-InterfaceLab.csproj", "{66AD75F8-A743-4DC3-A3CE-E6086C49656C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13-InterfaceUretim", "13-InterfaceUretim\13-InterfaceUretim.csproj", "{A1B9AEB8-04E0-4B61-9480-DE60FF29F4D1}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "13-InterfaceUretim", "13-InterfaceUretim\13-InterfaceUretim.csproj", "{A1B9AEB8-04E0-4B61-9480-DE60FF29F4D1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14-InterfaceFutbolcu", "14-InterfaceFutbolcu\14-InterfaceFutbolcu.csproj", "{1B4052F7-F2FC-43AA-85D4-A4A9E06C7DDB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "14-InterfaceFutbolcu", "14-InterfaceFutbolcu\14-InterfaceFutbolcu.csproj", "{1B4052F7-F2FC-43AA-85D4-A4A9E06C7DDB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "15-InterfaceDatabase", "15-InterfaceDatabase\15-InterfaceDatabase.csproj", "{3678E9C0-C774-492C-8BBF-99CEF64BFB4A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "15-InterfaceDatabase", "15-InterfaceDatabase\15-InterfaceDatabase.csproj", "{3678E9C0-C774-492C-8BBF-99CEF64BFB4A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19-SealdClassAndExtensionsMetods", "19-SealdClassAndExtensionsMetods\19-SealdClassAndExtensionsMetods.csproj", "{03355363-CD1B-46AC-A371-0CA5B4301403}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "19-SealdClassAndExtensionsMetods", "19-SealdClassAndExtensionsMetods\19-SealdClassAndExtensionsMetods.csproj", "{03355363-CD1B-46AC-A371-0CA5B4301403}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "17-PartialClass", "17-PartialClass\17-PartialClass.csproj", "{87660EEB-1941-43DB-BF75-DDDD763B94EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18-Delegate", "18-Delegate\18-Delegate.csproj", "{7B25EBF9-C233-49E7-A0FA-0CC8FE36C5F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "20-DelegateOrnek", "20-DelegateOrnek\20-DelegateOrnek.csproj", "{BB71734E-0DBE-4BC6-A3B9-7162B525E269}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DelegateandEvent", "DelegateandEvent\DelegateandEvent.csproj", "{83713DE0-0CB1-41C2-BB32-695363E58E04}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -110,6 +118,22 @@ Global
 		{03355363-CD1B-46AC-A371-0CA5B4301403}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03355363-CD1B-46AC-A371-0CA5B4301403}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03355363-CD1B-46AC-A371-0CA5B4301403}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87660EEB-1941-43DB-BF75-DDDD763B94EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87660EEB-1941-43DB-BF75-DDDD763B94EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87660EEB-1941-43DB-BF75-DDDD763B94EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87660EEB-1941-43DB-BF75-DDDD763B94EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B25EBF9-C233-49E7-A0FA-0CC8FE36C5F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B25EBF9-C233-49E7-A0FA-0CC8FE36C5F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B25EBF9-C233-49E7-A0FA-0CC8FE36C5F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B25EBF9-C233-49E7-A0FA-0CC8FE36C5F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BB71734E-0DBE-4BC6-A3B9-7162B525E269}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB71734E-0DBE-4BC6-A3B9-7162B525E269}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB71734E-0DBE-4BC6-A3B9-7162B525E269}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB71734E-0DBE-4BC6-A3B9-7162B525E269}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83713DE0-0CB1-41C2-BB32-695363E58E04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83713DE0-0CB1-41C2-BB32-695363E58E04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83713DE0-0CB1-41C2-BB32-695363E58E04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83713DE0-0CB1-41C2-BB32-695363E58E04}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
