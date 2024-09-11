@@ -28,6 +28,11 @@
             }
         }
 
+        //
+        public static void Logla(LoggerHandler loger,string msg)
+        {
+            loger.Invoke(msg);
+        }
         public static void FileLog(string msg)
         {
             Console.WriteLine($"Dosyaya {msg} yazildi");
