@@ -38,8 +38,8 @@
             sigara.Yandim += ali.RahatsizOl;
             sigara.Yandim += ayse.RahatsizOl;
 
-            sigara.SigaraIc();
-            kablo.AkimGecir();
+            sigara.SigaraIc();//tetikleyici metod
+            kablo.AkimGecir();//tetikleyici metod
 
         }
     }
