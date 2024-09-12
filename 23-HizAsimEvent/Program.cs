@@ -1,6 +1,6 @@
 ﻿namespace _23_HizAsimEvent
 {
-    internal class Program
+    public class Program
     {
         #region Senaryo
         /*
