@@ -60,13 +60,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "26-EventYangin", "26-EventY
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "27-EventTrafikKontrol", "27-EventTrafikKontrol\27-EventTrafikKontrol.csproj", "{56DDCD60-6AAD-4C8B-A9E7-A65A7A5CFFA4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "28-EventBomba", "28-EventBomba\28-EventBomba.csproj", "{17F4F251-592D-431C-B001-24DE3047AA23}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "28-EventBomba", "28-EventBomba\28-EventBomba.csproj", "{17F4F251-592D-431C-B001-24DE3047AA23}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "29-DelegatetenLambdayaGecis", "29-DelegatetenLambayaGecis\29-DelegatetenLambdayaGecis.csproj", "{5ADD54F1-5216-4BE2-8EA9-3E84ACA1E928}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "29-DelegatetenLambdayaGecis", "29-DelegatetenLambayaGecis\29-DelegatetenLambdayaGecis.csproj", "{5ADD54F1-5216-4BE2-8EA9-3E84ACA1E928}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "30-FuncPredicateAndAction", "30-FuncPredicateAndAction\30-FuncPredicateAndAction.csproj", "{1901EFD2-2A56-4314-85ED-3A17650AC75B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "30-FuncPredicateAndAction", "30-FuncPredicateAndAction\30-FuncPredicateAndAction.csproj", "{1901EFD2-2A56-4314-85ED-3A17650AC75B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "31-GenericInterfaceAndClass", "31-GenericInterfaceAndClass\31-GenericInterfaceAndClass.csproj", "{D7497017-55CE-429C-B222-B63F2894BDCB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "31-GenericInterfaceAndClass", "31-GenericInterfaceAndClass\31-GenericInterfaceAndClass.csproj", "{D7497017-55CE-429C-B222-B63F2894BDCB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "33-PostgreGenericRepository", "33-PostgreGenericRepository\33-PostgreGenericRepository.csproj", "{553473DF-F8CC-4293-A4B7-71388CAD1119}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "34-GenericLibrary", "34-GenericLibrary\34-GenericLibrary.csproj", "{5D5576CC-E5C6-4D8B-808D-42E0FB18747B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -194,6 +198,14 @@ Global
 		{D7497017-55CE-429C-B222-B63F2894BDCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D7497017-55CE-429C-B222-B63F2894BDCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D7497017-55CE-429C-B222-B63F2894BDCB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{553473DF-F8CC-4293-A4B7-71388CAD1119}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{553473DF-F8CC-4293-A4B7-71388CAD1119}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{553473DF-F8CC-4293-A4B7-71388CAD1119}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{553473DF-F8CC-4293-A4B7-71388CAD1119}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D5576CC-E5C6-4D8B-808D-42E0FB18747B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D5576CC-E5C6-4D8B-808D-42E0FB18747B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D5576CC-E5C6-4D8B-808D-42E0FB18747B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D5576CC-E5C6-4D8B-808D-42E0FB18747B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
