@@ -15,7 +15,7 @@ namespace _33_PostgreGenericRepository
         
         public static string sqlconstr = "server=.;Database=Northwind;Trusted_Connection=true;TrustServerCertificate=true";
         public static string postgreconstr =
-            "Server=127.0.0.1;Port=5432;Database=Northwind;User Id=postgres;Password=z68!t$Fxm9;";
+            "Server=127.0.0.1;Port=5432;Database=OkulDb;User Id=postgres;Password=z68!t$Fxm9;";
         static void Main(string[] args)
         {
             IDbConnection pgcon = new NpgsqlConnection(postgreconstr);

@@ -7,9 +7,10 @@ using System.Threading.Tasks;
 
 namespace _33_PostgreGenericRepository.Entities
 {
-    [Table("Brans")]
+    [Table("brans")]
     public class Brans
     {
+        [Key]
         public int Id { get; set; }
         public string BransAdi { get; set; }
     }
