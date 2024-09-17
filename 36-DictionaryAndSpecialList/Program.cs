@@ -73,7 +73,7 @@ namespace _36_DictionaryAndSpecialList
 
             #region SortedList
             //SortedList<int,string> numberNames = new SortedList<int,string>();
-            
+
             ////karisik ekleme yapilsa da kendi key e gore siralar
             //numberNames.Add(3, "Three");
             //numberNames.Add(1, "One");
@@ -81,7 +81,7 @@ namespace _36_DictionaryAndSpecialList
             //numberNames.Add(4, "Four");
             //foreach (var item in numberNames)
             //{
-                
+
             //    Console.WriteLine($"Key: {item.Key} Value : {item.Value}");
             //}
             #endregion
@@ -97,7 +97,7 @@ namespace _36_DictionaryAndSpecialList
             //Console.WriteLine("Fatma HashCode:" + fatma.GetHashCode());
 
             //Kisi berk = new Kisi { Id = 3, AdSoyad = "QWEQWEE" }; // ayni id ve farkli adsoyad a sahip atarsak ikisinide ayri ayri tutar bir sorun olmaz
-            
+
 
             ////aynisini bir co kkere eklesekte 1 tane olarak gosterir
             //kisis.Add(ali);
@@ -114,15 +114,30 @@ namespace _36_DictionaryAndSpecialList
             //{
             //    Console.WriteLine(item.Id + " "+ item.AdSoyad + " " + item.GetHashCode());
             //}
-            
+
 
             #endregion
+
+            #region Tuple Tanimlama
+
+            //tuple birden fazla veri tipini barindiran ayri bir veri türüdur.
+            Tuple<int, string, string> person = new Tuple<int, string, string>(1, "ali", "can");
+
+            var person2 = TestTuple(2, "ayse", "kaya");
+
+            #endregion
+            Console.WriteLine(person.Item2);
         }
+        public static Tuple<int, string, string> TestTuple(int x,string y,string z)
+        {
+            return Tuple.Create(x,y,z);
+        }
+            
 
     }
-    //public class Kisi
-    //{
-    //    public int Id { get; set; }
-    //    public string AdSoyad { get; set; }
-    //}
+    public class Kisi
+    {
+        public int Id { get; set; }
+        public string AdSoyad { get; set; }
+    }
 }
