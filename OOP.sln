@@ -72,7 +72,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "33-PostgreGenericRepository
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "34-GenericLibrary", "34-GenericLibrary\34-GenericLibrary.csproj", "{5D5576CC-E5C6-4D8B-808D-42E0FB18747B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "35-OOPGENELTEKRAR", "35-OOPGENELTEKRAR\35-OOPGENELTEKRAR.csproj", "{C7063FD6-1403-41DE-9FBE-FF5BEE173389}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "35-OOPGENELTEKRAR", "35-OOPGENELTEKRAR\35-OOPGENELTEKRAR.csproj", "{C7063FD6-1403-41DE-9FBE-FF5BEE173389}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "36-DictionaryAndSpecialList", "36-DictionaryAndSpecialList\36-DictionaryAndSpecialList.csproj", "{0F4068B0-F657-4616-A199-5E34641784DC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -212,6 +214,10 @@ Global
 		{C7063FD6-1403-41DE-9FBE-FF5BEE173389}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7063FD6-1403-41DE-9FBE-FF5BEE173389}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7063FD6-1403-41DE-9FBE-FF5BEE173389}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0F4068B0-F657-4616-A199-5E34641784DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F4068B0-F657-4616-A199-5E34641784DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0F4068B0-F657-4616-A199-5E34641784DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0F4068B0-F657-4616-A199-5E34641784DC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
